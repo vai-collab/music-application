@@ -100,6 +100,3 @@ vaishnavi-tunes/
 
 ---
 
-## 📌 Note
-
-This project is currently a UI-based music app design. Backend and real-time music streaming features can be added in future updates.
